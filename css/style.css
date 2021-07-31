@@ -9,3 +9,29 @@ p {
 body {
     background-color: coral;
 }
+
+
+ol {
+    list-style:decimal;
+
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+  
+p.italic {
+    font-style: italic;
+  }
+
+  
+  ul.a {
+    list-style-type: circle;
+  }
+
+  ol.d {
+    list-style-type: lower-alpha;
+  }
